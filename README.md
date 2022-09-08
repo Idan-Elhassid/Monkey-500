@@ -16,4 +16,5 @@ when run you will be presented with a Tkinter monkey's Gui. upon pressing the "l
 
 ***note that for privecy reasons i have left out of the code my own private api key, for you to use this project you will need your own key. you can get a FREE trial key here:
 https://www.alphavantage.co/support/#api-key
+
 look for a comment in the code on where to put it.
