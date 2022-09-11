@@ -4,7 +4,7 @@ monkey 500 is a Fun-GUI which will choose Great stocks for you to invest in.
 the inspiration for this fun project came from graham stephan's youtube video titled: I Spent "$100,000 On A Stock Picking Monkey"
 https://www.youtube.com/watch?v=TA-P5ilI_Vg
 
-in the video it was stated that: "A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfoli that would do just as well as one carefully selected by experts. 
+in the video it was stated that: "A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts." 
 
 this unique strategy did surprisingly well durring a bull market like in 2021, but less so in a bear market like in 2022.
 
@@ -17,4 +17,4 @@ when run you will be presented with a Tkinter monkey's Gui. upon pressing the "l
 ***note that for privecy reasons i have left out of the code my own private api key, for you to use this project you will need your own key. you can get a FREE trial key here:
 https://www.alphavantage.co/support/#api-key
 
-look for a comment in the code on where to put it.
+look for the comment in the code on where to put it (line 21).
