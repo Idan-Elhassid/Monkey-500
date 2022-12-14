@@ -18,3 +18,11 @@ when run you will be presented with a Tkinter monkey's Gui. upon pressing the "l
 https://www.alphavantage.co/support/#api-key
 
 look for the comment in the code on where to put it (line 21).
+
+
+demo: 
+![500_1](https://user-images.githubusercontent.com/112956707/207563089-1cbd0fee-7703-4ba7-ac72-b01d3cea8d09.PNG)
+__________________________________________________
+![500_2](https://user-images.githubusercontent.com/112956707/207563151-43a528a2-1ed9-4204-a14b-b9c819ea0f3b.PNG)
+__________________________________________________
+![500_3](https://user-images.githubusercontent.com/112956707/207563256-1dbf1313-0acd-46a5-8b33-ae43f50b954b.PNG)
